@@ -1,0 +1,16 @@
+C:\Users\jadia\Desktop\DIO.Atividades\obj\Debug\net5.0\DIO.Atividades.csproj.AssemblyReference.cache
+C:\Users\jadia\Desktop\DIO.Atividades\obj\Debug\net5.0\DIO.Atividades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jadia\Desktop\DIO.Atividades\obj\Debug\net5.0\DIO.Atividades.AssemblyInfoInputs.cache
+C:\Users\jadia\Desktop\DIO.Atividades\obj\Debug\net5.0\DIO.Atividades.AssemblyInfo.cs
+C:\Users\jadia\Desktop\DIO.Atividades\obj\Debug\net5.0\DIO.Atividades.csproj.CoreCompileInputs.cache
+C:\Users\jadia\Desktop\DIO.Atividades\bin\Debug\net5.0\DIO.Atividades.exe
+C:\Users\jadia\Desktop\DIO.Atividades\bin\Debug\net5.0\DIO.Atividades.deps.json
+C:\Users\jadia\Desktop\DIO.Atividades\bin\Debug\net5.0\DIO.Atividades.runtimeconfig.json
+C:\Users\jadia\Desktop\DIO.Atividades\bin\Debug\net5.0\DIO.Atividades.runtimeconfig.dev.json
+C:\Users\jadia\Desktop\DIO.Atividades\bin\Debug\net5.0\DIO.Atividades.dll
+C:\Users\jadia\Desktop\DIO.Atividades\bin\Debug\net5.0\ref\DIO.Atividades.dll
+C:\Users\jadia\Desktop\DIO.Atividades\bin\Debug\net5.0\DIO.Atividades.pdb
+C:\Users\jadia\Desktop\DIO.Atividades\obj\Debug\net5.0\DIO.Atividades.dll
+C:\Users\jadia\Desktop\DIO.Atividades\obj\Debug\net5.0\ref\DIO.Atividades.dll
+C:\Users\jadia\Desktop\DIO.Atividades\obj\Debug\net5.0\DIO.Atividades.pdb
+C:\Users\jadia\Desktop\DIO.Atividades\obj\Debug\net5.0\DIO.Atividades.genruntimeconfig.cache

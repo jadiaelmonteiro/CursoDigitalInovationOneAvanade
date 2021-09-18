@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\jadia\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\jadia\\.nuget\\packages"
+    ]
+  }
+}
